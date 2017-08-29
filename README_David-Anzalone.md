@@ -1,4 +1,3 @@
-# assignment_html_resume
-Build an HTML5 resume to jump start your job search
 David Anzalone
-<!DOCTYPE html>
+Build an HTML5 resume to jump start your job search
+
